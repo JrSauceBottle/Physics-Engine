@@ -5,7 +5,9 @@ A Physics Engine that I made in my second year at AIE. It is very basic since I 
 # Info 
 
 Author: Callum McDermott
+
 Language: C++
+
 Use: To demonstrate how physics work in a game point of view.
 
 Both files are zipped seperatly.
