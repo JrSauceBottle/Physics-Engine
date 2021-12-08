@@ -1,5 +1,5 @@
 # Physics-Engine
-A Physics Engine that I made in my second year at AIE. It is very basic since I didn't have enought ime to make a full fledge game
+A Physics Engine that I made in my second year at AIE. It is very basic since I didn't have enought time to make a full fledge game
 
 # Info 
 Author: Callum McDermott
