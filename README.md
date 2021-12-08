@@ -11,12 +11,12 @@ Both files are zipped seperatly.
 # Installation 
 Build:
 
-    Unzip the file
-    Find "Physics.exe" and run it
-    Done
+1. Unzip the file
+2. Find "Physics.exe" and run it
+3. Done
 
 Source Code
 
-    Unzipe the file
-    Find "Bootstrap.sln" and open it
-    Done
+1. Unzipe the file
+2. Find "Bootstrap.sln" and open it
+3. Done
